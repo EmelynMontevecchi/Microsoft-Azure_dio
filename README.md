@@ -27,7 +27,7 @@ No **"Configurando Recursos e Dimensionamento em Máquinas Virtuais na Azure"**,
 
 O curso **"Armazenamento do Azure"** me ensinou a gerenciar dados na nuvem.
 
-No **"Dimensionando o Armazenamento na Azure"**, pratiquei ajustar o armazenamento, foi bem interessante ver na prática. 
+No **"Dominando o Armazenamento na Azure"**, pratiquei ajustar o armazenamento, foi bem interessante ver na prática. 
 
 O **"Identidade, Acesso e Segurança"** me abriu os olhos pra proteger recursos. 
 
